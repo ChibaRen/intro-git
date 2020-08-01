@@ -2,3 +2,5 @@ Gitの練習
 usual workflow
 git add
 git commit
+git rm
+git status
