@@ -1,2 +1,4 @@
 Gitの練習
 usual workflow
+git add
+git commit
